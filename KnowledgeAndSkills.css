@@ -1,0 +1,53 @@
+#maincontent {
+    width: 75%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "raleway";
+}
+
+#maincontent h1 {
+    font-weight: 700;
+    font-size: 64px;
+    color: #4285F4;
+}
+
+#maincontent p {
+    font-size: 32px;
+    line-height: 72px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.godot {
+    font-weight: 700;
+    color: #DB4437;
+    text-decoration: underline;
+    ;
+}
+
+.projectofficer {
+    font-weight: 700;
+    color: #0F9D58;
+    text-decoration: underline;
+    ;
+}
+
+.shortmovie {
+    font-weight: 700;
+    color: #673AB7;
+    text-decoration: underline;
+    ;
+}
+
+.other {
+    font-size: 32px;
+    line-height: 72px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-weight: 700;
+    color: #FF9900;
+    text-decoration: underline;
+    ;
+}
