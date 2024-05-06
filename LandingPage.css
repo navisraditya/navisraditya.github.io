@@ -1,11 +1,30 @@
-#maintext {
-    font-size: 64px;
-    font-family: "raleway";
-    font-weight: 400;
+.maintextdiv {
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+#maintext {
+    font-size: 64px;
+    font-family: "raleway";
+    font-weight: 400;
+}
+
+.aboutme {
+    font-family: "raleway";
+    font-size: 24px;
+    position: relative;
+    left: 14%;
+    bottom: 50px;
+}
+
+.contactme{
+    font-family: "raleway";
+    font-size: 24px;
+    position: relative;
+    left: 76%;
+    bottom: 50px;
 }
 
 #maintext a {
